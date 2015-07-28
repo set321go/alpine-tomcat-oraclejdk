@@ -1,4 +1,4 @@
-FROM sdd330/alpine-oraclejdk7 
+FROM set321go/alpine-oraclejdk7 
 
 MAINTAINER Yang Leijun <yang.leijun@gmail.com>
 
